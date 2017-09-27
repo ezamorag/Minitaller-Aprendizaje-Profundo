@@ -1,0 +1,10 @@
+Objetivo: aprender a entrenar redes neuronales profundas mediante Keras-Tensorflow.
+
+Descripción de minitaller:
+Dia 1: entrenar redes neuronales MLP y CNN para resolver el problema MNIST.
+Dia 2: entender para que sirven las capas ocultas
+Dia 3: entrenar redes neuronales MLP y CNN para resolver los problemas CIFAR10 y SHVN.
+Dia 4: entrenar redes neuronales recurrentes LSTM para el problema movie review.
+
+
+
